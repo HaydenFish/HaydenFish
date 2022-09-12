@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HaydenFish
 - 👀 I’m currently a computer science student at CSUCI 
 - 🌱 My current focus is on Java programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 HaydenFish/HaydenFish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
